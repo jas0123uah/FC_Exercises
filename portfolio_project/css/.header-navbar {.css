@@ -1,0 +1,17 @@
+.header-navbar {
+  color: white;
+
+  text-decoration: none;
+  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  padding: 25px;
+}
+#home {
+  font-weight: bolder;
+  text-decoration: underline;
+  text-decoration-color: #b4869f;
+  text-decoration-thickness: 30px;
+
+  text-underline-position: auto;
+  border-radius: 10px;
+}
